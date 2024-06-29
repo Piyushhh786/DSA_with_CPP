@@ -51,4 +51,3 @@ int main(){
     }
    cout<<topo_sort(graph);
 
-}
