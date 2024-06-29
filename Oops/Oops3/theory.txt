@@ -1,0 +1,27 @@
+destructor tab use hota hai jab object scope se 
+bahar chala jaaye
+DESTRUCTOR IS ALSO SIMILAR TO CONSTRUCTOR
+
+->Deep & Shallow Copy
+Deep copy full copy krta hai 
+shallow copy just uske jaisi shadow copy krta hai
+..Like org[];
+if i want a shallow Copy;
+sha_org[] in this if i change somthing to org[] then
+sha_org[] also change .
+But in dee_org[] if i change something to org[] our deep copy
+doesn't change .
+
+-> static 
+ye jab humko  bar baar kuch chiz nhi banana rhta tab use krte hai
+->Initialisation list //completed
+-> POLYMORPHISM
+in run time there is only one type of POLYMORPHISM that is "FunctionOverriding"
+in compile time there is two type of POLYMORPHISM that are "functionOverloading and operator overloading"
+
+->INHERITANCE
+whenever there is subset in very class then we should not
+initialize that one in every class we make a parental class..
+->private: can't be access,can't be inherited
+->public: can be access , can be inherited
+->protected: can't be accsss , can be inherited

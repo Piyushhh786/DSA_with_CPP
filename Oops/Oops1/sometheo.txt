@@ -1,0 +1,15 @@
+PROGRAMMING HAVE TWO TYPES:
+1st. Procedure PROGRAMMING and 2nd.Object oriented PROGRAMMING;
+//what is OOPS??
+oops is methodology or paradigm to design a program uses classes and objects;
+//FOUR CONCEPTS OF OOPS
+1.) DATA ABSTRACTION-->SECURITY:like in game there is score, kill,etc. but you can't seen the code behind it..
+2.) DATA ENCAPSULATION-->STORE THE MULTIPLE THINGS IN A CONTAINER;
+3.) INHERITANCE-->SOMEHING RELATED TO OUT POORVAJ;
+4.) POLYMORPHISM--->MANY FORM.....It have two types: overloading and overriding;
+#THREE TYPES OF ACCESS MODIFIER
+1.) public:-->everyone have power to access it
+2.) private:-->Not everyone
+3.) protected:-->discuss after sometime..
+
+
